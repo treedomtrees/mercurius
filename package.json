@@ -1,5 +1,5 @@
 {
-  "name": "mercurius",
+  "name": "@treedom/mercurius",
   "version": "11.3.0",
   "description": "Fastify GraphQL adapter with gateway and subscription support",
   "main": "index.js",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mercurius-js/mercurius.git"
+    "url": "git+https://github.com/treedomtrees/mercurius.git"
   },
   "author": "Matteo Collina <hello@matteocollina.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mercurius-js/mercurius/issues"
+    "url": "https://github.com/treedomtrees/mercurius/issues"
   },
   "homepage": "https://mercurius.dev",
   "peerDependencies": {
